@@ -1,4 +1,4 @@
-# InstaSymphony: A Visual Exploration of Instagram Engagement
+# InstaSymphony: A Likes & Categories Performance
 
 Welcome to **InstaSymphony**, an exhilarating journey through the vibrant world of Instagram data! This project dives into a hypothetical dataset inspired by Instagram, aiming to unravel the engagement patterns and preferences within various categories.
 
